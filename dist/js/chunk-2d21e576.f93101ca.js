@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e576"],{d4c3:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("v-content",[e("div",[e("MenuBar"),e("ListRestaurants")],1)])},s=[],u=e("517d"),c=e("c247"),r={name:"Filter",components:{ListRestaurants:u["a"],MenuBar:c["a"]}},o=r,i=e("2877"),l=e("6544"),d=e.n(l),p=e("a75b"),w=Object(i["a"])(o,a,s,!1,null,null,null);t["default"]=w.exports;d()(w,{VContent:p["a"]})}}]);
+//# sourceMappingURL=chunk-2d21e576.f93101ca.js.map
