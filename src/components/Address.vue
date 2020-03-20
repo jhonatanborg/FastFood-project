@@ -88,7 +88,7 @@ export default {
       },
       adress3: {
         id: 3,
-        street: "Amendoeiras",
+        street: "Amendoeiras 2",
         number: "76",
         cep: "78520-000",
         complement: "Ao lado do 7 Express",
